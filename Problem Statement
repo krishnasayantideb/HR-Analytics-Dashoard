@@ -1,0 +1,23 @@
+The HR Department of an organization is responsible for monitoring and managing various aspects of employee data to ensure and maintain a 
+healthy workforce. However, in the case study, there is a lack of clear performance indicators to track and analyze key HR metrics. 
+Therefore, there is a need to design and implement a set of Key Performance Indicators (KPIs) to address the following points:
+
+1. Total Employee Count: Measure the total number of employees in the organization to understand the overall workforce size.
+2. Total Attrition Count: Keep track of the number of employees who have left the organization (attrition) to assess turnover rates.
+3. Total Attrition Rate: Calculate the attrition rate by dividing the total attrition count by the total employee count, providing insights 
+   into employee retention and engagement levels.
+4. Number of Active Employees: Determine the count of active employees to assess workforce stability and productivity.
+5. Average Age of Employees: Calculate the average age of employees to understand the demographic composition of the workforce and plan 
+   appropriate HR strategies.
+6. Attrition Rate by Gender: Analyze the attrition rate separately for male and female employees to identify any gender-related patterns or 
+   discrepancies.
+7. Department-wise Attrition: Evaluate attrition rates across different departments to identify areas of concern and focus on retention 
+   efforts.
+8. Number of Employees by Age Group: Categorize employees into age groups (e.g., 25-34, 35-44, etc.) to gain insights into workforce 
+   distribution and plan HR initiatives accordingly.
+9. Job Satisfaction Ratings: Collect and analyze job satisfaction ratings provided by employees to gauge their overall happiness and 
+   engagement levels.
+10. Education Field-wise Attrition: Determine attrition rates based on employees' educational backgrounds to identify specific areas where 
+  attrition is more prevalent.
+11. Attrition Rate by Gender of Different Age Groups: Analyze attrition rates based on both gender and age groups to identify any 
+  intersectional patterns and develop targeted retention strategies.
